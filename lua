@@ -149,7 +149,7 @@ WindUI:Popup({
 
             Callback = function()
 
-                setclipboard("https://discord.gg/C4Jnwuekh")
+                setclipboard("https://discord.gg/VDyYccwDW")
 
                 WindUI:Notify({
 
@@ -5353,8 +5353,7 @@ InfoTab:Button({
 
     Callback = function()
 
-        setclipboard("https://discord.gg/VDyYccwDW
-")
+        setclipboard("https://discord.gg/VDyYccwDW")
 
         WindUI:Notify({
 
